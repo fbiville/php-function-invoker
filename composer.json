@@ -1,0 +1,18 @@
+{
+    "name": "fbiville/riff-php-invoker",
+    "version": "0.0.1",
+    "require": {
+    },
+    "authors": [
+        {
+            "name": "Florent Biville",
+            "email": "fbiville@pivotal.io",
+            "homepage": "http://fbiville.github.io",
+            "role": "Developer"
+        }
+    ],
+    "license": "Apache-2.0",
+    "scripts": {
+    	"start": "php -S localhost:8080 invoker.php"
+    }
+}
