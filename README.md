@@ -1,6 +1,7 @@
 # Riff invoker for PHP functions
 
-Very experimental.
+Very experimental AND outdated.
+riff uses [cloud-native buildpacks](https://buildpacks.io) now
 
 ## Locally
 
